@@ -1,4 +1,4 @@
-This is a telegram chatbot using the Koboldccp API. [@ropori_tanuki_bot](https://t.me/ropori_tanuki_bot) 
+This is a telegram chatbot using the Koboldccp API. (You can find my bot [@ropori_tanuki_bot](https://t.me/ropori_tanuki_bot) however I only run it locally, from time to time.)
 
 <b>Taunki is a ridiculous racoon dog who imbibes in sake, performs magic and loves a joke. This bot is great for entertaining Japanese or English language practice!</b>
 
